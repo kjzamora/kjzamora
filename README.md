@@ -23,9 +23,10 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 <br />
+<br />
 
 ---
 
 <img align="left" alt="HoodedWarrior57's Github Stats" src="https://github-readme-stats-taupe-seven.vercel.app/api?username=HoodedWarrior57&show_icons=true&hide_border=true" />
 
-[linkedin]: https://www.linkedin.com/in/kylezamora/
+[linkedin]: https://www.linkedin.com/in/
