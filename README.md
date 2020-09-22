@@ -9,9 +9,6 @@
 - 👯 I’m looking to start projects related to Deep Learning
 - 🥅 2020 Goals: Contribute one full project to GitHub
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-HoodedWarrior57.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
