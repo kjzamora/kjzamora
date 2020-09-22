@@ -26,7 +26,6 @@
 [<img align="left" alt="PyTorch" width="26px" hex="EE4C2C" src="https://simpleicons.org/icons/pytorch.svg" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 <br />
-<br />
 
 ---
 
