@@ -1,8 +1,5 @@
 ### Hi there, I'm Kyle - aka [HoodedWarrior57] 👋
 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?
-original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 [![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kylezamora/)
 
 ## I'm A Chemical Engineer and A Long Time Programming Hobbiest!
