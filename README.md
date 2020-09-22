@@ -32,7 +32,7 @@
 
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="HoodedWarrior57's Github Stats" src="https://github-readme-stats.HoodedWarrior57.vercel.app/api?username=HoodedWarrior57&show_icons=true&hide_border=true" />
+  <img align="left" alt="HoodedWarrior57's Github Stats" src="https://github-readme-stats-taupe-seven.vercel.app/api?username=HoodedWarrior57&show_icons=true&hide_border=true" />
 
 
 [linkedin]: https://www.linkedin.com/in/kylezamora/
