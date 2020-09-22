@@ -23,10 +23,8 @@
 
 [<img align="left" alt="Visual Basic" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png" />]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="PyTorch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/220px-PyTorch_logo_black.svg.png" />]
 [<img align="left" alt="PyTorch" width="26px" hex="EE4C2C" src="https://simpleicons.org/icons/pytorch.svg" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-
 <br />
 <br />
 
@@ -48,7 +46,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.HoodedWarrior57.vercel.app/api?username=HoodedWarrior57&show_icons=true&hide_border=true" />
+  <img align="left" alt="HoodedWarrior57's Github Stats" src="https://github-readme-stats.HoodedWarrior57.vercel.app/api?username=HoodedWarrior57&show_icons=true&hide_border=true" />
 
 </details>
 
