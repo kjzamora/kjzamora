@@ -5,9 +5,9 @@
 ## I'm A Chemical Engineer and A Long Time Programming Hobbiest!
 
 - 🔭 I’m currently working as a Simulation Engineer
-- 🌱 I’m currently learning PyTorch
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to start projects related to Deep Learning
-- 🥅 2020 Goals: Contribute one full project to GitHub
+- 🥅 2021 Goals: Contribute one full project to GitHub
 
 ### Connect with me:
 
