@@ -11,7 +11,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="HoodedWarrior57 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 
 <br />
