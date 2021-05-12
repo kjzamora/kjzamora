@@ -4,7 +4,7 @@
 
 ## I'm A Simulation Engineer and A Long Time Programming Hobbiest!
 
-- 🔭 I’m currently working as a Simulation Engineer
+- 🔭 I’m currently working as a Simulation Engineer with a B.S. in Chemical Engineering
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to start projects related to Deep Learning
 - 🥅 2021 Goals: Contribute one full project to GitHub
