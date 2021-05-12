@@ -19,8 +19,8 @@
 
 <img align="left" alt="Visual Basic" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" hex:"EE4C2C"/>
-<img align="left" alt="PyTorch" width="26px" src="https://simpleicons.org/icons/pytorch.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="PyTorch" width="26px" src="https://user-images.githubusercontent.com/58868153/117904028-9e93df00-b29e-11eb-84ae-f0da29186c79.png" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/58868153/117904521-7f498180-b29f-11eb-8f1c-f3edc0d99a3f.png" />
 
 <br />
 
@@ -28,4 +28,4 @@
 
 <img align="left" alt="kjzamora's Github Stats" src="https://github-readme-stats-taupe-seven.vercel.app/api?username=kjzamora&show_icons=true&hide_border=true" />
 
-[linkedin]: https://www.linkedin.com/in/kylezamora/
+[linkedin]: https://www.linkedin.com/in/kylezamora/![github](https://user-images.githubusercontent.com/58868153/117904499-76f14680-b29f-11eb-9859-1c402423693f.png)
