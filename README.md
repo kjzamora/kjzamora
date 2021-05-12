@@ -2,7 +2,7 @@
 
 
 
-## I'm A Chemical Engineer and A Long Time Programming Hobbiest!
+## I'm A Simulation Engineer and A Long Time Programming Hobbiest!
 
 - 🔭 I’m currently working as a Simulation Engineer
 - 🌱 I’m currently learning Python
