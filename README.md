@@ -5,9 +5,9 @@
 ## I'm A Simulation Engineer and A Long Time Programming Hobbiest!
 
 - 🔭 I’m currently working as a Simulation Engineer with a B.S. in Chemical Engineering
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C# and Python
 - 👯 I’m looking to start projects related to Deep Learning
-- 🥅 2021 Goals: Contribute one full project to GitHub
+- 🥅 2022 Goals: Contribute one full project to GitHub
 
 ### Connect with me:
 
@@ -21,6 +21,7 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" hex:"EE4C2C"/>
 <img align="left" alt="PyTorch" width="26px" src="https://user-images.githubusercontent.com/58868153/117904028-9e93df00-b29e-11eb-84ae-f0da29186c79.png" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/58868153/117904521-7f498180-b29f-11eb-8f1c-f3edc0d99a3f.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/da8fa8b57a219475a22d5eb56c8780ec01a6a596/icons/csharp.svg" />
 
 <br />
 
