@@ -4,9 +4,9 @@
 
 ## I'm A Simulation Engineer and A Long Time Programming Hobbiest!
 
-- 🔭 I’m currently working as a Simulation Engineer with a B.S. in Chemical Engineering
+- ⚙️ I’m currently working as an Associate Simulation Engineer and Project Manager 
+- 🎓 University of Toledo grad with a B.S. in Chemical Engineering
 - 🌱 I’m currently learning C# and Python
-- 👯 I’m looking to start projects related to Deep Learning
 - 🥅 2022 Goals: Contribute one full project to GitHub
 
 ### Connect with me:
