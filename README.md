@@ -1,8 +1,4 @@
-### Hi there, I'm Kyle!
-
-
-
-## I'm A Simulation Engineer and A Long Time Programming Hobbiest!
+## About Me:
 
 - ⚙️ I’m currently working as an Associate Simulation Engineer and Project Manager 
 - 🎓 University of Toledo grad with a B.S. in Chemical Engineering
