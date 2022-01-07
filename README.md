@@ -8,7 +8,8 @@
 ### Connect with me:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Hosted%20on%20GitHub-orange)](https://kjzamora.github.io/)
-[![LinkedIn Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kylezamora/)
+<br/>
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Visit%20Profile-blue)](https://www.linkedin.com/in/kylezamora/)
 
 <br />
 
