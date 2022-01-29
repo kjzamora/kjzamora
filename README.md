@@ -16,7 +16,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/powershell.svg" />
+<img align="left" alt="PowerShell" img height="26" width="26" src="https://img.icons8.com/color/48/000000/powershell.png"/>
 <img align="left" alt="Visual Basic" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" hex:"EE4C2C"/>
 <img align="left" alt="PyTorch" width="26px" src="https://user-images.githubusercontent.com/58868153/117904028-9e93df00-b29e-11eb-84ae-f0da29186c79.png" />
