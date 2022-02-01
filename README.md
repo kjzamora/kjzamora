@@ -2,7 +2,7 @@
 
 - ⚙️ I’m currently working as an Associate Simulation Engineer and Project Manager 
 - 🎓 University of Toledo grad with a B.S. in Chemical Engineering
-- 🌱 I’m currently learning C# and Python
+- 🌱 I’m currently learning C# and Google Cloud
 - 🥅 2022 Goals: Contribute one full project to GitHub
 
 ### Connect with me:
