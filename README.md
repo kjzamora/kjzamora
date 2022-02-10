@@ -10,6 +10,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Hosted%20on%20GitHub-orange)](https://kjzamora.github.io/)
 <br/>
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Visit%20Profile-blue)](https://www.linkedin.com/in/kylezamora/)
+<br/>
+[![Blog](https://img.shields.io/badge/Wordpress-Visit%20Blog-yellow)](https://www.linkedin.com/in/kylezamora/)
 
 <br />
 
