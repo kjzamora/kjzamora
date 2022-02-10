@@ -11,7 +11,7 @@
 <br/>
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Visit%20Profile-blue)](https://www.linkedin.com/in/kylezamora/)
 <br/>
-[![Blog](https://img.shields.io/badge/Wordpress-Visit%20Blog-yellow)](https://www.linkedin.com/in/kylezamora/)
+[![Blog](https://img.shields.io/badge/Wordpress-Visit%20Blog-yellow)](https://kjzamora.wordpress.com)
 
 <br />
 
