@@ -1,6 +1,6 @@
 ## About Me:
 
-- ⚙️ I’m currently working as an Associate Simulation Engineer and Project Manager 
+- ⚙️ I’m currently working as an Senior Specialist, Production Services Infrastructure Support
 - 🎓 University of Toledo grad with a B.S. in Chemical Engineering
 - 🌱 I’m currently learning C# and Google Cloud
 - 🥅 2022 Goals: Contribute one full project to GitHub
